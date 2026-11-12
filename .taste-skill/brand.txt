@@ -1,0 +1,24 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:wght@400..700&family=JetBrains+Mono:wght@400..500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/system.css">
+<link rel="stylesheet" href="assets/ui/cards.css">
+<link rel="stylesheet" href="assets/motion/motion.css">
+<link rel="stylesheet" href="assets/backgrounds/backgrounds.css">
+<link rel="stylesheet" href="assets/layout/layout.css">
+<link rel="stylesheet" href="assets/icons/icon.css">
+<!-- <html lang="en" data-radius="soft">; keep this <style> after the links: layout.css resets --ly-scale -->
+<style>
+:root {
+  --p-bg: #f7f4ec; --p-surface: #efe9da; --p-ink: #1b221e; --p-muted: #5b625c;
+  --p-accent: #1d5f55; --p-accent-ink: #f7f4ec; --p-action: #1d5f55; --p-action-ink: #f7f4ec;
+  --p-inv-bg: #1b221e; --p-inv-surface: #282e2a; --p-inv-ink: #f7f4ec; --p-inv-muted: #9b9d96;
+  --p-inv-accent: #f7f4ec; --p-inv-accent-ink: #1b221e; --p-inv-action: #f7f4ec; --p-inv-action-ink: #1b221e;
+  --font-display: "Host Grotesk", system-ui, sans-serif;
+  --font-text: "Host Grotesk", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --display-weight: 500;
+  --display-tracking: -0.035em;
+  --display-tracking-xl: -0.04em;
+}
+</style>
